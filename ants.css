@@ -1,0 +1,20 @@
+body{
+	background-color: rgb(230,255,230);
+}
+
+h1{
+	text-align: center;
+}
+
+
+.mainbody{
+	display: grid;
+	grid-template-columns: 1% 18% 74%;
+	grid-column-gap: 1em;
+	grid-row-gap: 1em;
+	padding: 10px;
+}
+
+#leftlist{
+	background-color: rgb(204, 255, 204);
+}
